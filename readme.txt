@@ -33,3 +33,4 @@ Plugin that allows users to enter the site in one click, using a single account 
 = 0.3.1 =
 * Added support for openid
 * Added the ability to select a region
+Join the chat at https://gitter.im/yatsenkoleg/wgapiauth
